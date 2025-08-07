@@ -2,7 +2,7 @@
 
 This repository contains Power BI assets and datasets for analyzing BlinkIT grocery sales data.
 
-##Description:
+## Description:
 This project provides a comprehensive Power BI dashboard for analyzing BlinkIT grocery sales data. 
 It includes a ready-to-use Power BI report, raw datasets, and custom visual assets to help users explore sales trends, item performance, and key metrics in the grocery sector. 
 Ideal for data analysis, visualization, and business intelligence learning.
@@ -50,6 +50,6 @@ This project is for educational and analytical purposes.
 
 Feel free to customize the dashboard and assets for your own
 
-##CREDITS
+## CREDITS
 https://youtu.be/mmxVCFceQgU?si=zRJSJexA2VFG-Mq-
 Data Tutorials
